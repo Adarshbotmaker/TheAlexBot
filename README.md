@@ -23,7 +23,7 @@ CREDIT TO - MAFIA BOT
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/ALEX-USERBOT--)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adarshbotmaker/TheAlexBot)
 
 
 ══════════════════════════════════════════

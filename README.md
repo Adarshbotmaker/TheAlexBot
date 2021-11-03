@@ -12,6 +12,10 @@
 
 
 ![photo](https://telegra.ph/file/f2c9399da07d7f05e90d3.jpg)
+
+
+
+![photo](https://telegra.ph/file/bac8f3f310e9f1e0977d5.jpg)
 ══════════════════════════════════════════
 
 # TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE 

@@ -1,6 +1,6 @@
 {
   "name": "Alex-ub-Userbot",
-  "description": "The ALEXUB made by OP special thanks to respective HellBot owner . Join for updates related info @alex_userbot_support",
+  "description": "TheAlexBot made by @adarshop_xd SPECIAL THANKS TO OUR DEVS. Join for updates related info @alex_userbot_support",
   "logo": " https://telegra.ph/file/10042b1de7c6f93161cc9.jpg",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/ADARSHBOTMAKER/TheAlexBot",
+  "website": "https://github.com/ADARSHBOTMAKER/TheAlexBot",
+  "success_url": "https://t.me/ALEX_USERBOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",

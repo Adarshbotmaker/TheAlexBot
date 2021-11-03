@@ -8,6 +8,10 @@
 ## DON'T FORK GUYS MAKING ON
 
 ![photo_2021-10-03_07-40-19](https://telegra.ph/file/57cdb52bcad7e6cc50462.jpg)
+
+
+
+![photo](https://telegra.ph/file/f2c9399da07d7f05e90d3.jpg)
 ══════════════════════════════════════════
 
 # TᕼE OᗯᑎEᖇ ᗯOᑌᒪᗪ ᑎOT ᗷE ᖇESᑭOᑎSIᗷᒪE ᖴOᖇ ᗩᑎY KIᑎᗪ Oᖴ ᗷᗩN ᗪᑌE TO ᗷOT..YOᑌ ᑕᗩᑎ OᑎᒪY  GET ᗷᗩᑎ ᗪᑌE TO ᗰISᑌSE 
